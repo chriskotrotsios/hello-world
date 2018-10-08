@@ -1,2 +1,8 @@
 # hello-world
-1st project
+
+
+Hello!
+
+Chris here.
+
+I like pizza.
